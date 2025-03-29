@@ -1,5 +1,5 @@
 package net.hafid.Dao;
 
-public interface Dao  {
+public interface IDao {
     double res();
 }

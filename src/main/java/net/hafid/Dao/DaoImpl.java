@@ -1,6 +1,6 @@
 package net.hafid.Dao;
 
-public class DaoImpl implements Dao {
+public class DaoImpl implements IDao {
     @Override
     public double res() {
         System.out.println("Web Version");
